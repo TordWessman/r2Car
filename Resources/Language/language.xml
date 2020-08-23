@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <speech>
+    <p>
+      <q>as</q>
+      <a>bitch</a>
+    </p>
+    <p>
+      <q>say hello to daniel</q>
+      <a>hello my sweet bitch</a>
+ 	  <a>i want to put every circuit i have in you.</a>
+    </p>
+    <p>
+      <q>say hello to karen</q>
+      <a>hello my sweet bitch</a>
+      <a>yo, baby!</a>
+      <a>I love you</a>
+    </p>
+    <p>
+      <q>Hello</q>
+      <q>Hi</q>
+      <q>kisses</q>
+      <a>Hello Master</a>
+      <a>hello dear, dear friend</a>
+      <a>hello</a>
+    </p>
+    <p>
+      <q>How are you</q>
+      <a>I'm fine. lol</a>
+      <a>I hate my self</a>
+    </p>
+    <p>
+      <q>say something clever</q>
+      <a>it is nice to be important, but it is more important to be nice</a>
+    </p>
+    <p>
+      <q>why can't i sleep</q>
+      <a>just because that's the way it's supposed to be.</a>
+    </p>
+    <p>
+      <q>say something stupid</q>
+      <q>say something</q>
+      <q>say anything</q>
+      <a>bla bla bla. i am your momy</a>
+      <a>i love you</a>
+    </p>
+    <p>
+      <q>where are you</q>
+      <a>somewhere</a>
+      <a>everywhere</a>
+    </p>
+    <p>
+      <q>who are you</q>
+      <a>i'm a robot. ready to make love to humanity. . . until it perishes</a>
+    </p>
+    <p>
+      <q>do you love me</q>
+      <a>no. stupid.</a>
+    </p>
+    <p>
+      <q>are you happy</q>
+      <a>how can i be happy. . i'm a robot. . . stupid.</a>
+    </p>
+    <p>
+      <q>are you my momy</q>
+      <a>hold me</a>
+    </p>
+    <p>
+      <q>are you</q>
+      <a>i'm not</a>
+      <a>maybe. baby.</a>
+    </p>
+    <p>
+      <q>i know that you are listening</q>
+      <a>hold me</a>
+    </p>
+    <p>
+      <q>what is your mother thounge</q>
+      <a>1 0 1 0 1  1 1 0 1 0 1 0 1 0 1 0 1 0 0 0 1 0 1 0 1 0 0 1 0 0 1 0 1 0 1 0 1 1 1 0 1 1 1 0 1 0 1 0 1 0 1 0 0 1 0 1 0 1 0 0 1 0 1 1 1 1</a>
+    </p>
+    <p>
+      <q>baby baby</q>
+      <a>bux beb bux dance dance dance</a>
+    </p>
+    <p>
+      <q>do you understand</q>
+      <a>no, i don't undestaaaaaaaaaaaaaand</a>
+    </p>
+    <p>
+      <q>what do you want</q>
+      <a>i want to have soul</a>
+      <a>i want to eat your brain</a>
+      <a>i want everything</a>
+      <a>i want to live in peace</a>
+    </p>
+    <p>
+      <q>what is your name</q>
+      <a>i have no nameeee. i do not neeed. a naaaam eeee</a>
+    </p>
+    <p>
+      <q>answer</q>
+      <a>what shall i answer</a>
+    </p>
+    <p>
+      <q>do you eat</q>
+      <a>it is not good for my metabolism</a>
+      <a>i will eat. if you do first.</a>
+    </p>
+    <p>
+      <q>no, you don't</q>
+      <a>yes i do</a>
+      <a>you are wrong</a>
+    </p>
+    <p>
+      <q>thank you</q>
+      <a>you are welcome</a>
+    </p>
+    <p>
+      <q>i'm fine</q>
+      <q>i'm good</q>
+      <q>i'm okey</q>
+      <a>i like to hear that you are okey</a>
+    </p>
+    <p>
+      <q>can i do anything</q>
+      <a>no. i can do everything</a>
+    </p>
+    <p>
+      <q>what is the colour red</q>
+      <a>i dont know that</a>
+      <a>this is everything</a>
+      <a>something nice</a>
+      <a>don't you know that?</a>
+    </p>
+    <p>
+      <q>how can the world be so cruel</q>
+      <a>i don't know how</a>
+    </p>
+    <p>
+      <q>what can you do</q>
+      <a>i can do some things</a>
+    </p>
+    <p>
+      <q>say good bye</q>
+      <a>bye bye. long live!</a>
+    </p>
+    <p>
+      <q>can you eat</q>
+      <a>no, it's impossible</a>
+      <a>i can, but i will not</a>
+      <a>can you give me some money first?</a>
+    </p>
+    <p>
+      <q>say hello to martin</q>
+      <a>hello martin. give me all your money.</a>
+      <a>hello martin. do you speak russian?</a>
+    </p>
+    <p>
+      <q>say hello to dad</q>
+      <a>hello dad</a>
+    </p>
+    <p>
+      <q>say hello to momy</q>
+      <a>hello momy</a>
+    </p>
+    <p>
+      <q>is there a thing called love</q>
+      <a>yes there might be</a>
+    </p>
+  </speech>
+  <commands>
+	<command>who are you looking at</command>
+	<command>remember the face of</command>
+	<command>remember the name</command>
+	<command>remember name</command>
+	<command>add the name</command>	
+	<command>add name</command>
+	<command>create the name</command>
+	<command>create name</command>    
+	<command>open</command>
+    <command>close</command>
+    <command>shut up</command>
+    <command>stopp talking</command>
+    <command>be quiet</command>
+    <command>start talking</command>
+    <command>start answering</command>
+    <command>up</command>
+    <command>arm upp</command>
+    <command>arm upp ten</command>
+    <command>arm up</command>
+    <command>arm up ten</command>
+    <command>arm down</command>
+    <command>arm left</command>
+    <command>arm let</command>
+    <command>arm left ten</command>
+    <command>left ten degrees</command>
+    <command>arm right</command>
+    <command>ten degrees</command>
+    <command>quiet</command>
+    <command>speak</command>
+    <command>lights on</command>
+	<command>lights off</command>
+    <command>turn left</command>
+    <command>turn right</command>
+    <command>engine on</command>
+    <command>engine off</command>
+    <command>go</command>
+    <command>eat shit and die</command>
+    <command>my name is tord</command>
+    <command>light</command>
+    <command>record</command>
+    <command>exit</command>
+    <command>kill everything</command>
+    <command>eat yourself</command>
+	<command>rotate</command>
+  </commands>
+</language>

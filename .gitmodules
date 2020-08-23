@@ -1,0 +1,3 @@
+[submodule "r2Project"]
+	path = r2Project
+	url = git@github.com:TordWessman/r2Project.git
